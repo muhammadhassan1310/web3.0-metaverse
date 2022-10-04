@@ -1,0 +1,14 @@
+var Location = ["Paris","Italy","Dubai","Machu Picchu","Maldives"];
+console.log("Original order: ",Location);
+console.log("Alphabetical order: ",[...Location].sort());
+console.log("Original order: ",Location);
+console.log("Reverse alphabetical order: ",[...Location].sort().reverse());
+console.log("Original order: ",Location);
+console.log("Reverse order: ",Location.reverse());
+console.log("Original order: ",Location);
+console.log("Reverse order: ",Location.reverse());
+console.log("Original order: ",Location);
+console.log("Sort order: ",Location.sort());
+console.log("Original order: ",Location);
+console.log("Sort order: ",Location.sort().reverse());
+console.log("Original order: ",Location);
